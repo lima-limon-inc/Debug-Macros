@@ -1,6 +1,8 @@
 #ifndef DEBUGDEFS_H
 #define DEBUGDEFS_H
 
+#include <stdio.h>
+
 
 // Source: https://stackoverflow.com/a/1941337/13683575
 #ifdef DEBUG
